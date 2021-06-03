@@ -1,0 +1,121 @@
+@import url(//fonts.googleapis.com/css?family=Raleway);
+
+
+#navbar {
+    display: inline-block;
+    text-align: right;
+    position: fixed;
+    top:0;
+    width: 100%;
+}
+
+#navbar ul li {
+    display: inline-block;
+    padding-left: 100px;
+
+    }
+#navbar ul li a{
+    color: #f0f0f0;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+#navbar ul{
+    margin-right: 2rem;
+}
+
+#welcome-section {
+    height: 100vh;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+
+}
+
+#welcome-section h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 6rem;
+    color: #f0f0f0
+}
+
+#projects{
+    margin: auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #45567d;
+;
+}
+
+
+/*PROJECTS*/
+.some-page-wrapper {
+  margin: 15px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+
+}
+
+#project-header{
+    text-align: center;
+    font-size: 60px;
+    color: aliceblue;
+    margin: 50 0;
+}
+
+.project-tile{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px; 
+    
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  padding-right: 200px;
+  padding-bottom: 100px;
+}
+
+.column:nth-child(3) {
+  padding-right: 0;
+}
+
+.orange-column {
+  background-color: green;
+  width: 220px;
+  height: 300px;
+}
+
+.blue-column {
+  background-color: green;
+  width: 220px;
+  height: 300px;
+}
+
+.green-column {
+  background-color: green;
+  width: 220px;
+  height: 300px;
+}
+
+
+
+@media screen and (max-width: 992px) {
+    body {
+        background-color: blue;
+    }
+}
+
