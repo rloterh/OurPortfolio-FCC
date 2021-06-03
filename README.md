@@ -13,14 +13,14 @@
 
 ## Live Demo
 
-[Live Demo Link](https://)
+[Live Demo Link](https://vibrant-babbage-f028cd.netlify.app/)
 
 
 
 ## Getting Started
 
-1. - Copy the git link `https://github.com/rloterh/TheNextWebPageClonegit` of this project
-2. - In your terminal run the command `git clone https://github.com/rloterh/TheNextWebPageClone.git`
+1. - Copy the git link `https://github.com/rloterh/OurPortfolioFCC.git` of this project
+2. - In your terminal run the command `git clone https://github.com/rloterh/OurPortfolioFCC.git`
 3. - Navigate to the cloned project directory
 4. - Within the project root directory launch `index.html` in a web browser
 
@@ -60,7 +60,7 @@ This project was tested using [W3C Validator](https://validator.w3.org/) and [St
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rloterh/ourportforlio-FCC/issues).
+Feel free to check the [issues page](https://github.com/rloterh/OurPortfolioFCC/issues).
 
 ## Show your support
 
@@ -68,13 +68,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- [Freecodecamp.org](https://www.freecodecamp.org/)!
+- [FreeCodeCamp](https://www.freecodecamp.org/)!
 - [Microverse](https://www.microverse.org/)!
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
-
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
