@@ -5,6 +5,9 @@
 
 > This project demonstrates the use use of semantic html to build a basic portfolio website. This project includes a test suite to check if all the required steps are effectively implemented.
 
+![img](https://user-images.githubusercontent.com/12745474/120709968-7706ef80-c4b5-11eb-860e-7d71bb373a77.jpg)
+
+
 ## Built With
 
 - HTML5
@@ -49,12 +52,12 @@ This project was tested using [W3C Validator](https://validator.w3.org/) and [St
 
 ## Authors
 
-### 👨‍💻 Robert Loterh
+👤 **Robert Loterh**
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rloterh) <br>
-[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-loterh/) <br>
-[![EMAIL](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:rloterh@gmail.com) <br>
-[![TWITTER](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RLoterh) <br>
+- GitHub: [@githubhandle](https://github.com/rloterh)
+- Twitter: [@twitterhandle](https://twitter.com/RLoterh)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/robert-loterh)
+
 
 ## 🤝 Contributing
 
