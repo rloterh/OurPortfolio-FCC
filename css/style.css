@@ -42,7 +42,7 @@
 
 #projects {
   margin: auto;
-  height: calc(100vh - 100px);
+  height: calc(100% - 100px);
   display: flex;
   justify-content: center;
   align-items: center;
